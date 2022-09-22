@@ -22,5 +22,9 @@ const words = [
     {
         word: "joel",
         hint: "kaka mkubwa"
+    },
+    {
+        word: "Mubezi",
+        hint: "msaidizi"
     }
 ]
